@@ -1,0 +1,20 @@
+Day 1: Dasar plotting (import, line, label, grid).
+
+Day 2: Styling garis (warna, marker, legend).
+
+Day 3: Bar chart & histogram untuk perbandingan dan 
+distribusi.
+
+Day 4: Scatter plot & colormap untuk melihat hubungan data.
+
+Day 5: Subplot dan layout banyak grafik.
+
+Day 6: Ukuran figure, DPI, dan spacing.
+
+Day 7: Kontrol axis & scale (limit, tick, log).
+
+Day 8: Tema global & styling profesional.
+
+Day 9: Simpan grafik ke file berbagai format.
+
+Day 10: Mini project visualisasi dataset nyata.

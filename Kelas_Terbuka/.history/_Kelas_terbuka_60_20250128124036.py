@@ -1,0 +1,1 @@
+print("cuma belajar pip")

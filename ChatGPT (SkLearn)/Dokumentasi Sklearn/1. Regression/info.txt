@@ -1,0 +1,4 @@
+Overfitting -> Model yang mempelajari data terlalu dalam, termasuk noise (gangguan) sehingga gagal melakukan generalisasi pada data baru
+Regression -> Model untuk memprediksi angka dan gampang untuk Overfitting
+Feature Selection -> Pemilihan variable input/output yang paling relevan dan informatif dari dataset untuk membangun dan melatih model machine learning
+alpha -> Seberapa kuat "hukuman", (kalo besar -> model makin "ditekan", kalo kecil -> mendekati LinearRegression biasa)

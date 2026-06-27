@@ -1,0 +1,19 @@
+Day 1==============
+train_test_split itu adalah datanya diacak, tergantung test_size
+model.fit(x,y) = Melatih model mencari garis terbaik
+model.coef_ = seberapa besar pengaruh fitur terhadap target
+model.intercept_ = nilai awal garis
+model.predict() = menggunakan persamaan untuk memprediksi data baru
+
+y = mx + b
+coef_ = nilai m
+intercept_ = nilai b  
+
+day 2=====================
+skelarn hanya menerima 2 dimensi
+x_train,y_train harus di fit
+
+day 3======================
+fit(x_train,y_train)
+predict(x_test)
+error(y_test, y_pred)

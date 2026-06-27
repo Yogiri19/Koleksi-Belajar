@@ -1,0 +1,8 @@
+buatkan latihan tentang sklearn python yang ini,
+buat 5 latihan buat latihan mudah,sedang, sulit, beri clue ,lalu beri output nya, 
+nanti aku beri codingannya sebagai jawabannya, lalu nanti nilai persoal, 
+lalu nanti jumblahkan semua soal dari 1-100, dan variabel nya dari kamu datanya apapun nya dari kamu ,
+dan masing masing soal nya diberikan x,y1, atau inputnya. apapun itu , materinya ini
+
+apakah bisa np.random.randint itu jadi input. kaya misalnya np.random.randint(inputnya,inputnya,inputnya)
+

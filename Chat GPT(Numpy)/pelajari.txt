@@ -1,0 +1,18 @@
+1. array = np.array([12, 25, 36, 49, 64, 81])
+Tampilkan:
+    Angka yang kuadrat sempurna
+    Angka yang > 30 DAN genap
+
+2. array2d = np.array([
+    [65, 72, 88],
+    [90, 60, 70],
+    [85, 95, 100]
+])
+    Tampilkan:
+    hanya baris yang:
+
+    ✔ mean ≥ 85
+    ✔ DAN semua elemennya ≥ 70
+
+3. axis = 0 -> kolom
+3. axis = 1 -> baris

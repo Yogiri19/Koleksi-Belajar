@@ -1,0 +1,19 @@
+Day 1 – Dasar ndarray ✅
+
+Day 2 – Indexing, slicing, view vs copy
+
+Day 3 – Operasi matematika & broadcasting
+
+Day 4 – Array generator (zeros, ones, arange, linspace, random)
+
+Day 5 – Statistik NumPy (mean, std, min, max, axis)
+
+Day 6 – Boolean masking & filtering data
+
+Day 7 – Reshape, transpose, flatten, ravel, stack
+
+Day 8 – Linear algebra (dot, matrix multiply, inverse)
+
+Day 9 – Optimasi: vectorization vs loop
+
+Day 10 (TERAKHIR) – Mini project NumPy (fondasi ML/AI)

@@ -1,0 +1,1 @@
+print(f"nilai __name__ pada fungsi.py = '{__name__}'") # menjadi _main__ karna ini file yang dijalankan

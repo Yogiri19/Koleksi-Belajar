@@ -1,0 +1,24 @@
+| Hari | Materi                                                   |
+| ---- | -------------------------------------------------------- |
+| 1    | Tensor, Variable, dan Operasi Dasar TensorFlow           |
+| 2    | Tensor Manipulation (Reshape, Slice, Concatenate, Stack) |
+| 3    | Matematika TensorFlow dan Broadcasting                   |
+| 4    | Control Flow TensorFlow (if, for, while, function)       |
+| 5    | Automatic Differentiation dengan GradientTape            |
+| 6    | Membangun Neural Network Manual dengan TensorFlow        |
+| 7    | Keras Sequential API                                     |
+| 8    | Training, Loss Function, Optimizer, dan Evaluation       |
+| 9    | Dataset Pipeline dengan tf.data                          |
+| 10   | Deep Neural Network dan Model Deployment Sederhana       |
+
+
+
+dy/dx = 3x² + 2
+
+Substitusi:
+dy/dx = 3(2²)+2
+       = 12+2
+       = 14
+
+
+-> Avarage (90.8) / Fakhri Dinal Maulana Putra 25/06/2026

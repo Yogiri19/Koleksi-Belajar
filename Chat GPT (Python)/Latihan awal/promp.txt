@@ -1,0 +1,5 @@
+prompt soal
+buatkan latihan tentang ini, tapi df nya harus sama, buat latihan mudah, sedang, sulit, beri clue nya misalnya pake method apa misalnya menggunakan mean(), atau apapun itu. lalu beri output nya, nanti aku beri codingannya sebagai jawabannya, lalu nanti nilai persoal, lalu nanti jumblahkan semua soal dari 1-100
+
+prompt latihan
+buatkan latihan tentang pandas python, buat 10 latihan buat latihan mudah, sedang, sulit, beri clue nya misalnya pake method apa misalnya menggunakan mean(), atau apapun itu. lalu beri output nya, nanti aku beri codingannya sebagai jawabannya, lalu nanti nilai persoal, lalu nanti jumblahkan semua soal dari 1-100 

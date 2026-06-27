@@ -1,0 +1,26 @@
+plt.plot(x, y1, label="A", linewidth=2, linestyle(":"))
+
+plt.figure()
+plt.hist(data, bins=10)
+
+plt.figure()
+plt.hist(data, bins=20)
+----------------------------
+plt.plot -> garis
+plt.bar -> kotak terpisah keatas
+plt.barh -> kotak terpisah kesamping
+plt.hist -> kotak menyatu
+plt.scatter -> titik-titik
+------------------------
+alpha=ketebalan
+size/s=ukuran
+color/c=warna
+
+------------------------------------
+6.
+pixel = inch x dpi
+-------------------------------------
+7. 
+xticks dan xlim jangan disatuin
+fig = figure
+axs = axes

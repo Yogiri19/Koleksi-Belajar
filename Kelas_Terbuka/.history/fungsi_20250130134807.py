@@ -1,0 +1,1 @@
+print(f"nilai __name__ pada ain.py = '{__name__}'")

@@ -1,0 +1,21 @@
+y = mx + b
+x = jam belajar (input)
+y = nilai (output)
+m = seberapa besar nilai naik jika belajar lebih lama (coef_)
+b = nilai awal (intercept_)
+
+==========================
+Decision tree tidak butuh scaling
+accuracy_score = Seberapa akurat
+confusion_matrix = detail kesalahan
+KNN itu wajib pake scaling, sedangkan Decision tree tidak wajib
+
+=============================
+Random Forest = banyak Decision tree
+Random Forest tidak perlu menggunakan scaling
+Decision Tree = 1 guru
+Random Forest = n guru diskusi bareng
+
+n_estimator adalah lebih akurat tapi lebih berat
+max_depth = kedalaman tiap pohon dibatasi biar gak overfitting
+
